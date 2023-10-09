@@ -34,10 +34,10 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Screenshot
 
-### Desktop View
+#### Desktop View
 
 ![image](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/56a24c10-1145-45f7-8320-089946b8a88a)
 
-### Mobile View
+#### Mobile View
 
-![image](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/e3496823-3d9e-4f12-aa95-0ea587e8ec4c)
+![WhatsApp Image 2023-10-09 at 20 23 04_a1da1f95](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/90ade3f6-1979-49f9-9a05-404a3c726914)
