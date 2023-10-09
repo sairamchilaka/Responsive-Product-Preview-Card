@@ -1,0 +1,107 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    margin: 100px 500px;
+}
+
+.left {
+    background-image: url("./images/image-product-desktop.jpg");
+    width: 250px;
+    height: 450px;
+    border-radius: 10px 0px 0px 10px;
+    background-size: cover;
+}
+
+.right {
+    box-sizing: border-box;
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    border-radius: 0px 10px 10px 0px;
+    padding: 20px;
+}
+
+.perfume{
+    font-family: Montserrta;
+    letter-spacing: 2px;
+    color: hsl(228, 12%, 48%);
+}
+.title{
+    font-family: Fraunces;
+    font-size: 30px;
+    color: hsl(212, 21%, 14%);
+    font-weight: bold;
+}
+.desc{
+    font-family: Fraunces;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+    line-height: 1.5;
+}
+.price{
+    display: flex;
+}
+.disc{
+    font-family: Fraunces;
+    color: hsl(158, 36%, 37%);
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 20px;
+}
+.ori{
+    font-family: Fraunces;
+    font-size: 12px;
+    color: hsl(228, 12%, 48%);
+    line-height: 3;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-image: url("./images/icon-cart.svg");
+    background-repeat: no-repeat;
+    background-position: 35px center;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 90%;
+}
+.btn:hover{
+    background-color: hsl(157, 51%, 17%);
+}
+@media (max-width: 768px) {
+    body{
+        padding: 10px;
+    }
+    .card {
+        flex-direction: column; 
+        width: 375px; 
+        margin: auto 10px;
+    }
+
+    .left {
+        background-image: url("./images/image-product-mobile.jpg"); 
+        height: 230px; 
+        width: 90%;
+        border-radius: 10px 10px 0px 0px; 
+    }
+
+    .right {
+        box-sizing: border-box;
+        padding: 20px;
+        height: 370px;
+        width: 90%; 
+        border-radius: 0px 0px 10px 10px; 
+        margin-bottom: 20px;
+    }
+    .btn{
+        width: 95%;
+    }
+}
