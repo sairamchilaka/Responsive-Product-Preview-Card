@@ -40,4 +40,4 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 #### Mobile View
 
-![WhatsApp Image 2023-10-09 at 20 23 04_a1da1f95](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/90ade3f6-1979-49f9-9a05-404a3c726914)
+!(https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/90ade3f6-1979-49f9-9a05-404a3c726914)
