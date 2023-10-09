@@ -64,7 +64,7 @@ Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
 
 #### Mobile View
 
-<img src="https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/6a20f59a-8459-4d64-8c27-59a9aab7c775" alt="Image" width="700" height="700">
+![WhatsApp Image 2023-10-09 at 20 23 04_a1da1f95](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/6a20f59a-8459-4d64-8c27-59a9aab7c775)
 
 ## Project Link
 
