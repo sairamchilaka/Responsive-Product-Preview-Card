@@ -32,6 +32,30 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+## About the Solution
+
+The project is to built a product preview card.
+
+A card in which we have product and its specifications on a card format.
+
+On the left side of the card we have the image of the product.
+
+On the right side of the card we have the specifications of the product like description, brand, price, etc.
+
+If we opened the website on the desktop.
+
+On the top of the card we have the image of the product.
+
+On the bottom of the card we have the specifications of the product like description, brand, price, etc.
+
+If we opened the website on the mobile.
+
+Here, we use HTML and CSS because we are creating a static web page.
+
+As the solution needs the structure we have used HTML and CSS for the styling of the webpage.
+
+Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
+
 ## Screenshot
 
 #### Desktop View
@@ -40,5 +64,28 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 #### Mobile View
 
-![WhatsApp Image 2023-10-09 at 20 23 04_a1da1f95](https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/6a20f59a-8459-4d64-8c27-59a9aab7c775)
+<img src="https://github.com/sairamchilaka/Responsive-Product-Preview-Card/assets/90474499/6a20f59a-8459-4d64-8c27-59a9aab7c775" alt="Image" width="200" height="200">
 
+## Project Link
+
+https://sairamchilaka.github.io/Responsive-Product-Preview-Card/
+
+## Languages Used
+
+* HTML
+
+* CSS
+
+## WHat I have learned
+
+By building the solution I have learned how to use the flex-box and its various styling attributes.
+
+And I have also learned how to use attractive styling like colors, borders, etc.
+
+I have also learned some of the best ways to create the flex-box and it also helped to improve my skills.
+
+I have also enjoyed playing with colors and font styles it is very exciting.
+
+I have also learned what and how to use media queries for creating a responsive webpage.
+
+The importance of a webpage is scaling to its responsiveness and I have enjoyed a lot while learning it.
